@@ -32,7 +32,7 @@ My project for this summer internship at Celebal Technologies is going to be dev
 
 # Week 1 Assignment - Set up Node.js and create your first application.
 
-🖥️ Code: https://github.com/PatrickAlphaC/denver-security
+🖥️ Code: https://github.com/SankarNayak/week-1-assignment-csi
 
 ## Introduction
 
