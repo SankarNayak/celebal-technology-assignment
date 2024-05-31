@@ -15,17 +15,22 @@ My project for this summer internship at Celebal Technologies is going to be dev
 
 <details>
 <summary>
-<a href="#lesson-15-smart-contract-security--auditing-for-developers">Week 1 Assignment 15: Set up Node.js and create your first application.</a>
+<a href="#week-1-assignment---set-up-nodejs-and-create-your-first-application">Week 1 Assignment: Set up Node.js and create your first application</a>
 </summary>
   <ol>
-    <li><a href="#introduction-9">Introduction</a></li>
+    <li><a href="#introduction">Introduction</a></li>
   </ol>
 </details>
 
-<br/>
-<p align="center">
-</a>
-</p>
+<details>
+<summary>
+<a href="#week-2-assignment---build-a-file-management-tool-using-core-modules">Week 2 Assignment: Build a file management tool using core modules</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-1">Introduction</a></li>
+  </ol>
+</details>
+
 <br/>
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -37,5 +42,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
 ## Introduction
 
 ⭐️ Install Node.js and build a simple "Hello World" application. Understand the basics of Node.js runtime and execute your application.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Week 2 Assignment - Build a file management tool using core modules.
+
+🖥️ Code: https://github.com/SankarNayak/week-2-assignment-csi
+
+## Introduction
+
+⭐️ Utilize Node.js core modules such as File System, Path, and HTTP to create a simple file management tool that can create, read, and delete files.
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
