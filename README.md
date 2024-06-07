@@ -31,6 +31,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
   </ol>
 </details>
 
+<details>
+<summary>
+<a href="#week-3-assignment---convert-callback-based-code-to-promises-and-async/await">Week 3 Assignment: Convert callback-based code to Promises and Async/Await</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-1">Introduction</a></li>
+  </ol>
+</details>
+
 <br/>
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
