@@ -54,3 +54,13 @@ My project for this summer internship at Celebal Technologies is going to be dev
 ⭐️ Utilize Node.js core modules such as File System, Path, and HTTP to create a simple file management tool that can create, read, and delete files.
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Week 3 Assignment - Convert callback-based code to Promises and Async/Await.
+
+🖥️ Code: https://github.com/SankarNayak/week-3-assignment-csi
+
+## Introduction
+
+⭐️ Refactor an existing piece of code that uses callbacks for async operations to use Promises and Async/Await for better readability and error handling.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
