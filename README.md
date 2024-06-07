@@ -33,7 +33,7 @@ My project for this summer internship at Celebal Technologies is going to be dev
 
 <details>
 <summary>
-<a href="#week-3-assignment---convert-callback-based-code-to-promises-and-async/await">Week 3 Assignment: Convert callback-based code to Promises and Async/Await</a>
+<a href="#week-3-assignment---convert-callback-based-code-to-promises-and-asyncawait">Week 3 Assignment: Convert callback-based code to Promises and Async/Await</a>
 </summary>
   <ol>
     <li><a href="#introduction-1">Introduction</a></li>
