@@ -36,7 +36,7 @@ My project for this summer internship at Celebal Technologies is going to be dev
 <a href="#week-3-assignment---convert-callback-based-code-to-promises-and-asyncawait">Week 3 Assignment: Convert callback-based code to Promises and Async/Await</a>
 </summary>
   <ol>
-    <li><a href="#introduction-1">Introduction</a></li>
+    <li><a href="#introduction-2">Introduction</a></li>
   </ol>
 </details>
 
@@ -45,7 +45,7 @@ My project for this summer internship at Celebal Technologies is going to be dev
 <a href="#week-4-assignment---create-a-basic-web-server-with-expressjs">Week 4 Assignment: Create a basic web server with Express.js</a>
 </summary>
   <ol>
-    <li><a href="#introduction-1">Introduction</a></li>
+    <li><a href="#introduction-3">Introduction</a></li>
   </ol>
 </details>
 
