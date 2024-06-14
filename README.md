@@ -40,6 +40,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
   </ol>
 </details>
 
+<details>
+<summary>
+<a href="#week-4-assignment---create-a-basic-web-server-using-express.js">Week 4 Assignment: Create a basic web server with Express.js</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-1">Introduction</a></li>
+  </ol>
+</details>
+
 <br/>
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -71,5 +80,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
 ## Introduction
 
 ⭐️ Refactor an existing piece of code that uses callbacks for async operations to use Promises and Async/Await for better readability and error handling.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Week 4 Assignment - Create a basic web server with Express.js.
+
+🖥️ Code: https://github.com/SankarNayak/week-4-assignment-csi
+
+## Introduction
+
+⭐️ Set up a simple web server using Express.js that can handle basic routing and middleware. Implement routes to respond to at least two different endpoints.
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
