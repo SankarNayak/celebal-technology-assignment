@@ -42,7 +42,7 @@ My project for this summer internship at Celebal Technologies is going to be dev
 
 <details>
 <summary>
-<a href="#week-4-assignment---create-a-basic-web-server-using-express.js">Week 4 Assignment: Create a basic web server with Express.js</a>
+<a href="#week-4-assignment---create-a-basic-web-server-with-expressjs">Week 4 Assignment: Create a basic web server with Express.js</a>
 </summary>
   <ol>
     <li><a href="#introduction-1">Introduction</a></li>
