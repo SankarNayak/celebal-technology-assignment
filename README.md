@@ -49,6 +49,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
   </ol>
 </details>
 
+<details>
+<summary>
+<a href="#week-5-assignment---build-a-crud-application-with-mongodb">Week 5 Assignment: Build a CRUD application with MongoDB</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-4">Introduction</a></li>
+  </ol>
+</details>
+
 <br/>
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
