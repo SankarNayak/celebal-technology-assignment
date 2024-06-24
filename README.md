@@ -92,3 +92,13 @@ My project for this summer internship at Celebal Technologies is going to be dev
 ⭐️ Set up a simple web server using Express.js that can handle basic routing and middleware. Implement routes to respond to at least two different endpoints.
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Week 5 Assignment - Build a CRUD application with MongoDB
+
+🖥️ Code: https://github.com/SankarNayak/week-5-assignment-csi
+
+## Introduction
+
+⭐️ Develop a simple application to Create, Read, Update, and Delete (CRUD) entries in a MongoDB database using Mongoose.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
