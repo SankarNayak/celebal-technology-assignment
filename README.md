@@ -58,6 +58,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
   </ol>
 </details>
 
+<details>
+<summary>
+<a href="#week-6-assignment---develop-a-restful-api">Week 6 Assignment: Develop a RESTful API</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-5">Introduction</a></li>
+  </ol>
+</details>
+
 <br/>
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -109,5 +118,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
 ## Introduction
 
 ⭐️ Develop a simple application to Create, Read, Update, and Delete (CRUD) entries in a MongoDB database using Mongoose.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Week 6 Assignment - Develop a RESTful API
+
+🖥️ Code: https://github.com/SankarNayak/week-6-assignment-csi
+
+## Introduction
+
+⭐️ Create a RESTful API using Node.js and Express that supports basic CRUD operations on a resource (like users, products, etc.).
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
