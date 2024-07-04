@@ -67,6 +67,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
   </ol>
 </details>
 
+<details>
+<summary>
+<a href="#week-7-assignment---implement-jwt-based-authentication-in-your-api">Week 7 Assignment: Implement JWT-based authentication in your API</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-6">Introduction</a></li>
+  </ol>
+</details>
+
 <br/>
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -128,5 +137,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
 ## Introduction
 
 ⭐️ Create a RESTful API using Node.js and Express that supports basic CRUD operations on a resource (like users, products, etc.).
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Week 7 Assignment - Implement JWT-based authentication in your API
+
+🖥️ Code: https://github.com/SankarNayak/week-7-assignment-csi
+
+## Introduction
+
+⭐️ Add JSON Web Token (JWT) authentication to your existing RESTful API. Ensure secure handling of tokens and implement a protected route.
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
