@@ -76,6 +76,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
   </ol>
 </details>
 
+<details>
+<summary>
+<a href="#week-8-assignment---enhance-your-expressjs-application">Week 8 Assignment: Enhance your Express.js application</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-7">Introduction</a></li>
+  </ol>
+</details>
+
 <br/>
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -147,5 +156,15 @@ My project for this summer internship at Celebal Technologies is going to be dev
 ## Introduction
 
 ⭐️ Add JSON Web Token (JWT) authentication to your existing RESTful API. Ensure secure handling of tokens and implement a protected route.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Week 8 Assignment - Enhance your Express.js application
+
+🖥️ Code: https://github.com/SankarNayak/week-8-assignment-csi
+
+## Introduction
+
+⭐️ Add advanced features to your Express.js application such as file upload, error handling, or integrating a third-party API.
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
